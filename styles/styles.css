@@ -496,7 +496,7 @@ section {
   box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.8);
 }
 .blogs .blog video{
-  width: 100%;
+  width: 33%;
   height: 300px;
   object-fit: cover;
   border-top-left-radius: 5px;
